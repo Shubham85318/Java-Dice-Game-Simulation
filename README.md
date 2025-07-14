@@ -1,13 +1,13 @@
-# 🎲 Dice Game Simulation – Java
+#  Dice Game Simulation – Java
 
-Hey there! 👋  
+ 
 This is a little Java project I worked on as part of a full-stack developer take-home test.
 
 The task was to simulate a simple dice game using 5 dice, run it 10,000 times, and analyze the results. The rules are interesting and a bit different from standard dice games — check them out below!
 
 ---
 
-## 📝 Game Rules (in plain English)
+##  Game Rules 
 
 - Start with 5 dice.
 - Roll them all.
@@ -20,7 +20,7 @@ Simple idea, but it makes for fun logic to code.
 
 ---
 
-## 💻 Tools Used
+##  Tools Used
 
 - Java 17 (OpenJDK – Temurin build)
 - Written and tested in **VS Code**
@@ -28,7 +28,7 @@ Simple idea, but it makes for fun logic to code.
 
 ---
 
-## ▶️ How to Run It
+##  How to Run It
 
 If you’ve got Java 17+ set up, just do this:
 
